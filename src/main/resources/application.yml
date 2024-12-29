@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: security-example
+  security:
+    user:
+      name: nimesh
+      password: 12345
