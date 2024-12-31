@@ -3,7 +3,6 @@ package com.security_example.service;
 import com.security_example.model.UserPrinciple;
 import com.security_example.model.Users;
 import com.security_example.repository.UserRepository;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
